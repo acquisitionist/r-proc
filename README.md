@@ -1,6 +1,6 @@
 # R-Proc - Reddit Data File Processor
 
-RProc is a command-line tool for processing Reddit data dumps in zstd-compressed NDJSON format. It supports filtering specific subreddit content, efficiently processing large files, and exporting results.
+R-Proc is a command-line tool for processing Reddit data dumps in zstd-compressed NDJSON format. It supports filtering specific subreddit content, efficiently processing large files, and exporting results.
 
 ## Features
 
